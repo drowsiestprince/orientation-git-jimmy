@@ -12,7 +12,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Setting up your Username and Email  
 - [x] Setting up your Authentication  
 - [x] Forking a Repository  
-- [ ] Cloning a Repository  
+- [x] Cloning a Repository  
 - [ ] Making Changes to the Repository  
 - [ ] Commiting Changes Locally  
 - [ ] Moving Changes to GitHub   
