@@ -9,7 +9,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] View this README  
 - [x] Create a GitHub Account  
 - [x] Open your Command Line Interface  
-- [ ] Setting up your Username and Email  
+- [x] Setting up your Username and Email  
 - [ ] Setting up your Authentication  
 - [ ] Forking a Repository  
 - [ ] Cloning a Repository  
